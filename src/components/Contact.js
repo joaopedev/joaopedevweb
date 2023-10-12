@@ -33,15 +33,12 @@ export default function Contact({ color }) {
         >
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
-              <Text color={`${color}.400`} fontWeight={800}>
-                04
-              </Text>
-              <Text fontWeight={800}>Contact</Text>
+              <Text fontWeight={800}>Contato</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
           <Stack spacing={4} as={Container} maxW={"3xl"} textAlign={"center"}>
-            <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
+            <Heading fontSize={"3xl"}>Entre em contato!</Heading>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.contact}
             </Text>

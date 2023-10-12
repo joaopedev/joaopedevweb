@@ -1,29 +1,19 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## EcoSoft
+- *Estagiário Fullstack* | Julho 2022 - Dezembro 2022
+- ![logo512](../assets/ecosoft_solucoes_ambientais_logo.jpg)
+- Tags: Empresas
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Frontend: AngularJS, ReactTS, .NET, NextJS;
+  - Backend: C#, NodeTS, Docker, PostgreSQL, NestJS;
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## Smart Innovation
+- *Desenvolvedor FullStack* | Março 2023 - Julho 2023
+- ![logo512](../assets/smartinnovationbr_logo.jpg)
+- Tags: Empresas
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
-
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+  - Frontend: AngularJS, ReactTS, .NET, NextJS;
+  - Backend: C#, NodeTS, Docker, PostgreSQL, NestJS;
