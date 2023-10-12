@@ -5,8 +5,8 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Frontend: AngularJS, ReactTS, .NET, NextJS;
-  - Backend: C#, NodeTS, Docker, PostgreSQL, NestJS;
+  - Frontend: .NET, .ASPNET, VUE JS;
+  - Backend: C#, FoxPro, MYSQL;
 
 ## EcoSoft
 - *Estagiário Fullstack* | Julho 2022 - Dezembro 2022
@@ -15,8 +15,8 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Frontend: .NET, .ASPNET, VUE JS;
-  - Backend: C#, FoxPro, MYSQL;
+  - Frontend: AngularTS;
+  - Backend: NodeTS, PostgreSQL;
 
 ## Smart Innovation
 - *Desenvolvedor FullStack* | Março 2023 - Julho 2023
