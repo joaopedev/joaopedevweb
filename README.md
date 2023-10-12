@@ -1,4 +1,4 @@
-# Portfolio using React.js and Chakra UI
+# Portfolio utilizando React.js and Chakra UI
 
 Este portfólio é construído usando React.js e Chakra UI.
 
