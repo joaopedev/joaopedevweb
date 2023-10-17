@@ -3,7 +3,7 @@
 - ![logo512](../assets/guberman_logo.jpg)
 - Tags: Empresas
 - Badges:
-  - Badge [blue]
+  - Front [blue]
 - List Items:
   - Frontend: .NET, .ASPNET, VUE JS;
   - Backend: C#, FoxPro, MYSQL;

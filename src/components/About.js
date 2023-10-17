@@ -20,7 +20,7 @@ export default function About({ color }) {
             pb={{ base: 20, md: 36 }}
           >
             <Stack align="center" direction="row" px={4}>
-              <HStack mx={4}>
+              <HStack>
                 <Text fontWeight={800}>Sobre</Text>
               </HStack>
               <Divider orientation="horizontal" />
