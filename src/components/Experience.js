@@ -8,16 +8,11 @@ import {
   Card,
   CardHeader,
   CardBody,
-  CardFooter,
   Flex,
-  Badge,
   Image,
   List,
   ListItem,
   ListIcon,
-  Button,
-  ButtonGroup,
-  Center,
 } from "@chakra-ui/react";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
@@ -36,10 +31,6 @@ export default function Experience({ color }) {
     }
   }, [options]);
   
-  const handleSelected = (value) => {
-    setSelected(value);
-  };
-
   return (
     <>
       <Container maxW={"3xl"} id="experience">
@@ -50,23 +41,11 @@ export default function Experience({ color }) {
           pb={{ base: 20, md: 36 }}
         >
           <Stack align="center" direction="row" px={4}>
-            <HStack mx={4}>
+            <HStack>
               <Text fontWeight={800}>Experiência</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
-          <Center px={4}>
-            <ButtonGroup variant="outline">
-              {options.map((option) => (
-                <Button
-                  colorScheme={selected === option.value ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option.value)}
-                >
-                  {option.value}
-                </Button>
-              ))}
-            </ButtonGroup>
-          </Center>
           <Stack px={4} spacing={4}>
             {experience
               .filter((exp) => exp.tags.includes(selected))
@@ -103,18 +82,6 @@ export default function Experience({ color }) {
                         </List>
                       </Flex>
                     </CardBody>
-                    <CardFooter>
-                      <HStack spacing={2}>
-                        {exp.badges.map((badge) => (
-                          <Badge
-                            key={badge.name}
-                            colorScheme={badge.colorScheme}
-                          >
-                            {badge.name}
-                          </Badge>
-                        ))}
-                      </HStack>
-                    </CardFooter>
                   </Card>
                 </Fade>
               ))}

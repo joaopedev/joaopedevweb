@@ -6,32 +6,22 @@ import {
   Box,
   HStack,
   Button,
-  ButtonGroup,
   Card,
   CardBody,
   Image,
   Heading,
   SimpleGrid,
-  Badge,
   Link,
-  Center,
 } from "@chakra-ui/react";
 import { Fade } from "react-reveal";
 import { useState } from "react";
 import ProjectsArray from "./ProjectsArray";
 import OtherProjectsArray from "./OtherProjectsArray";
-import TagsArray from "./TagsArray";
 
 export default function Projects({ color }) {
     const projects = ProjectsArray();
-    const others = OtherProjectsArray();
-    const options = TagsArray("ProjectsTags");
-    
+    const others = OtherProjectsArray();    
     const [selected, setSelected] = useState("All");
-
-    const handleSelected = (value) => {
-      setSelected(value);
-    };
     
   return (
     <>
@@ -43,7 +33,7 @@ export default function Projects({ color }) {
           pb={{ base: 20, md: 36 }}
         >
           <Stack align="center" direction="row" p={4}>
-            <HStack mx={4}>
+            <HStack>
               <Text fontWeight={800}>Projetos</Text>
             </HStack>
             <Divider orientation="horizontal" />
@@ -75,16 +65,6 @@ export default function Projects({ color }) {
                           </a>
                         ))}
                       </HStack>
-                      <HStack pt={4} spacing={2}>
-                        {project.badges.map((badge) => (
-                          <Badge
-                            key={badge.text}
-                            colorScheme={badge.colorScheme}
-                          >
-                            {badge.text}
-                          </Badge>
-                        ))}
-                      </HStack>
                     </CardBody>
                   </Stack>
                 </Card>
@@ -92,26 +72,8 @@ export default function Projects({ color }) {
             ))}
           </Stack>
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            Outros Projetos
+            Testes
           </Text>
-          <Center px={4}>
-            <ButtonGroup variant="outline">
-              <Button
-                colorScheme={selected === "All" ? `${color}` : "gray"}
-                onClick={() => handleSelected("All")}
-              >
-                Todos
-              </Button>
-              {options.map((option) => (
-                <Button
-                  colorScheme={selected === option.value ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option.value)}
-                >
-                  {option.value}
-                </Button>
-              ))}
-            </ButtonGroup>
-          </Center>
           <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
             {others
               .filter((other) => {
@@ -141,17 +103,6 @@ export default function Projects({ color }) {
                             >
                               {button.text}
                             </Link>
-                          ))}
-                        </HStack>
-                        <HStack flexWrap="wrap" pt={4} spacing={2}>
-                          {other.badges.map((badge) => (
-                            <Badge
-                              my={2}
-                              key={badge.text}
-                              colorScheme={badge.colorScheme}
-                            >
-                              {badge.text}
-                            </Badge>
                           ))}
                         </HStack>
                       </CardBody>
