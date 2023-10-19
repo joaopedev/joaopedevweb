@@ -12,16 +12,24 @@ import {
   Heading,
   SimpleGrid,
   Link,
+  Center,
+  ButtonGroup
 } from "@chakra-ui/react";
 import { Fade } from "react-reveal";
 import { useState } from "react";
 import ProjectsArray from "./ProjectsArray";
 import OtherProjectsArray from "./OtherProjectsArray";
+import TagsArray from "./TagsArray"
 
 export default function Projects({ color }) {
     const projects = ProjectsArray();
     const others = OtherProjectsArray();    
     const [selected, setSelected] = useState("All");
+    const options = TagsArray("ProjectsTags");
+    
+    const handleSelected = (value) => {
+      setSelected(value);
+    };
     
   return (
     <>
@@ -74,6 +82,24 @@ export default function Projects({ color }) {
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
             Testes
           </Text>
+          <Center px={4}>
+            <ButtonGroup variant="outline">
+              <Button
+                colorScheme={selected === "All" ? `${color}` : "gray"}
+                onClick={() => handleSelected("All")}
+              >
+                Todos
+              </Button>
+              {options.map((option) => (
+                <Button
+                  colorScheme={selected === option.value ? `${color}` : "gray"}
+                  onClick={() => handleSelected(option.value)}
+                >
+                  {option.value}
+                </Button>
+              ))}
+            </ButtonGroup>
+          </Center>
           <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
             {others
               .filter((other) => {

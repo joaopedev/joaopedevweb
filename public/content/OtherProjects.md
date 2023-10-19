@@ -32,7 +32,7 @@ Teste FullStack.
 
 ## ACME
 Projeto de agendamento de consultas para clinicas, médicos e pacientes.
-- Tags: Projetos
+- Tags: Projetos em andamento
 - Badges:
   - Badge [blue]
 - Buttons:
