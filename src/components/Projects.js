@@ -22,6 +22,7 @@ export default function Projects({ color }) {
     const projects = ProjectsArray();
     const others = OtherProjectsArray();    
     const [selected, setSelected] = useState("All");
+    console.log(setSelected)
     
   return (
     <>
