@@ -23,7 +23,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© {getCurrentYear()} Joao Pedro Sousa. All rights reserved</Text>
+        <Text>© {getCurrentYear()} Joao Pedro Sousa. All rights reserved.</Text>
       </Container>
     </Box>
   );
