@@ -43,8 +43,19 @@
   - Database: PostgreSQL; 
 
 ## JS Soluction (Backend)
-- *Desenvolvedor Backend* | Dezembro 2023 - Atual
+- *Desenvolvedor Backend* | Dezembro 2023 - Fevereiro 2024
 - ![logo512](../assets/js_soluctions_logo.jpg)
+- Tags: Empresas
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Frontend: ReactJS, ChakraUI;
+  - Backend: NodeJS(Typescript), Docker, Python;
+  - Database: PostgreSQL; 
+  
+## TimeNow (Fullstack)
+- *Desenvolvedor Fullstack* | Abril 2024 - Atual
+- ![logo512](../assets/timenow_logo.png)
 - Tags: Empresas
 - Badges:
   - Badge [blue]

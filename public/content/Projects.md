@@ -42,3 +42,12 @@ Pagina voltada para entrar em contato com advogados de Vitoria-ES referente a di
   - Badge [blue]
 - Buttons:
   - Link [https://advocaciasociales.com.br/]  
+
+## Dota Friends
+Uma pagina criada para intereção de jogadores da steam, com intuito de ter mais amigos e pessoas para jogar Dota 2. O intuito maior do site é vincular um frontend e backend de uma forma simplista utilizando ReactTS com Chakra UI e backend em NodeTS;
+- ![600x200](https://logos-world.net/wp-content/uploads/2020/12/Dota-2-Symbol.jpg)
+- Tags: Category 2
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://jassadotafriends.netlify.app/] 
