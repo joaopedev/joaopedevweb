@@ -28,10 +28,11 @@
   - Badge [blue]
 - List Items:
   - Frontend: AngularJS, ReactTS, .NET, NextJS;
-  - Backend: C#, NodeTS, Docker, NestJS;
+  - Backend: C#, NodeTS, NestJS;
   - Database: PostgreSQL;
+  - Docker;
 
-## JS Soluction (Backend)
+## JS Soluction
 - *Desenvolvedor Backend* | Dezembro 2023 - Fevereiro 2024
 - ![logo512](../assets/js_soluctions_logo.jpg)
 - Tags: Empresas
@@ -39,19 +40,21 @@
   - Badge [blue]
 - List Items:
   - Frontend: ReactJS, ChakraUI;
-  - Backend: NodeJS(Typescript), Docker, Python;
+  - Backend: NodeJS(Typescript), Python;
   - Database: PostgreSQL;
+  - Docker;
 
-## EMPFO (Backend)
-- *Desenvolvedor Backend / Banco de Dados* | Agosto 2023 - Atual
+## EMPFO App
+- *Desenvolvedor Backend* | Agosto 2023 - Atual
 - ![logo512](../assets/empfo.jpg)
 - Tags: Empresas
 - Badges:
   - Badge [blue]
 - List Items:
   - Frontend: React Native(Expo GO);
-  - Backend: NodeJS(Typescript), Docker;
+  - Backend: NodeJS(Typescript);
   - Database: PostgreSQL;    
+  - Docker;
   
 ## TimeNow (Fullstack)
 - *Desenvolvedor Fullstack* | Abril 2024 - Atual
@@ -60,6 +63,7 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Frontend: ReactJS, ChakraUI, AngularJS;
+  - Frontend: ReactJS, ChakraUI, AngularJS, Styled Components;
   - Backend: NodeJS(Typescript), Docker, Python, C#;
   - Database: PostgreSQL, SQL; 
+  - Docker;
