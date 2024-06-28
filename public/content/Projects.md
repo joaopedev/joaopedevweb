@@ -26,7 +26,7 @@ Agendamento de consultas online para clinicas, médicos e paciêntes.
   - Link [https://github.com/paulinha-19/frontend-agendamento]
 
 ## EMPFO
-Aplicativo para uso feminio, aplicativo permite calculo de ciclos femininos, contatos de riscos, áreas de hospitais e delegacias femininas.
+Aplicativo para uso feminino, aplicativo permite calculo de ciclos femininos, contatos de riscos, áreas de hospitais e delegacias femininas.
 - ![600x200](https://play-lh.googleusercontent.com/XHE1E_ptwfeHzmttxjpyDREv4JX73bUEBWRkTK2C5DY0L5xSTgLfWBJS8q_YHeV92Js=w240-h480-rw)
 - Tags: Category 2
 - Badges:
@@ -50,4 +50,4 @@ Uma pagina criada para intereção de jogadores da steam, com intuito de ter mai
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://jassadotafriends.netlify.app/] 
+  - Link [https://dotafriends-jassa.vercel.app/] 
