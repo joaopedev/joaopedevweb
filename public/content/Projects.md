@@ -7,6 +7,15 @@ Integração de secretarias, melhoras no IEG-M, criação de relacionamento entr
 - Buttons:
   - Link [https://unicidades.com.br/]
 
+## Agendamento Social Campos dos Goytacazes
+O principal intuito do aplicativo é a sua função social. O aplicativo realiza agendamentos diretamente com a assistência social da prefeitura de Campos dos Goytacazes, com o principal intuito de agilizar o atendimento ao público e oferecer um sistema próprio de controle de atendimento para os funcionários dos CRAS's.
+- ![600x200](https://social.campos.rj.gov.br/wp-content/uploads/2022/02/logo-1-1024x277.png)
+- Tags: Category 2
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://socialcampos.com.br]
+
 ## Ambion
 Ambion é a ferramenta certa para a recepção, armazenamento, disponibilização e análise de dados de monitoramento ambiental. Transforme montanhas de dados em informação, por meio de relatórios, gráficos e análises estatísticas avançadas, aumentando a base de conhecimento de sua organização. Acompanhe em tempo real, em qualquer lugar com acesso à internet, a qualidade ambiental e a performance dos processos monitorados.
 - ![600x200](https://www.ecosoft.com.br/wp-content/uploads/2021/04/bg-apps-1.png)
