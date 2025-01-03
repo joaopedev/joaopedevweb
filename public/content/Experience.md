@@ -55,6 +55,18 @@
   - Backend: NodeJS(Typescript);
   - Database: PostgreSQL;    
   - Docker;
+
+## Prefeitura Municipal Campos Dos Goytacazes
+- *Desenvolvedor Fullsack* | Julho 2024- Atual
+- ![logo512](../assets/android-chrome-512x512.png)
+- Tags: Empresas
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Frontend: ReactJS;
+  - Backend: NodeJS(Typescript);
+  - Database: PostgreSQL;    
+  - Docker;  
   
 ## TimeNow (Fullstack)
 - *Desenvolvedor Fullstack* | Abril 2024 - Atual
