@@ -1,5 +1,5 @@
 ## Guberman
-- *Desenvolvedor FullStack* | Março 2022 - Maio 2022
+- *Estagiário Fullstack* | Março 2022 - Maio 2022
 - ![logo512](../assets/guberman_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -75,7 +75,7 @@
 - Badges:
   - Badge [blue]
 - List Items:
-  - Frontend: ReactJS, ChakraUI, AngularJS, Styled Components;
+  - Frontend: ReactJS, ChakraUI, AngularJS;
   - Backend: NodeJS(Typescript), Docker, Python, C#;
   - Database: PostgreSQL, SQL; 
   - Docker;
