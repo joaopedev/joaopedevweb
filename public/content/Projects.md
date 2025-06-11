@@ -60,3 +60,12 @@ Uma pagina criada para intereção de jogadores da steam, com intuito de ter mai
   - Badge [blue]
 - Buttons:
   - Link [https://dotafriends-jassa.vercel.app/] 
+
+## Converge que Cola
+Engajar os participantes do evento com uma experiência interativa e gamificada, com possibilidade de colecionar figurinhas digitais, cumprir missões, conquistar prêmios e acompanhar seu progresso em um ranking.;
+- ![600x200](https://play-lh.googleusercontent.com/ElF_6b0i5DFzTxbTaNUoNnxfBBppfHz6luWQDujHyo0Ls_nXjTSLXNgRmfv4TaFqAyg=w480-h960-rw)
+- Tags: Category 2
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://play.google.com/store/apps/details?id=com.paulinha19.convergequecola&pli=1] 
