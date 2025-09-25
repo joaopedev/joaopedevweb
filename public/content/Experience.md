@@ -80,14 +80,12 @@
   - Database: PostgreSQL, SQL; 
   - Docker;
 
-## Inbazz (Fullstack)
-- *Desenvolvedor Fullstack* | Maio 2025 - Atual
-- ![logo512](../assets/logodamarca.png)
+## Converge que cola (Backend)
+- *Desenvolvedor Backend* | Abril 2024 - Atual
+- ![logo512](../assets/converge-que-cola.png)
 - Tags: Empresas
 - Badges:
   - Badge [blue]
 - List Items:
-  - Frontend Mobile: React-Native, FlutterFlow;
-  - Backend: NestJS, Supabase;
-  - Database: PostgreSQL, SQL; 
-  
+  - Backend: Nestjs, TypeORM, Heroku;
+  - Database: PostgreSQL
