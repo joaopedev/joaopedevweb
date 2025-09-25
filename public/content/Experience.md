@@ -79,3 +79,13 @@
   - Backend: NodeJS(Typescript), Docker, Python, C#;
   - Database: PostgreSQL, SQL; 
   - Docker;
+
+## Converge que cola (Backend)
+- *Desenvolvedor Backend* | Abril 2024 - Atual
+- ![logo512](../assets/converge-que-cola.png)
+- Tags: Empresas
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Backend: Nestjs, TypeORM, Heroku;
+  - Database: PostgreSQL
