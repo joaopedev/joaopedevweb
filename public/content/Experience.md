@@ -81,7 +81,7 @@
   - Docker;
 
 ## Converge que cola (Backend)
-- *Desenvolvedor Backend* | Abril 2024 - Atual
+- *Desenvolvedor Backend* | Abril 2025 - Julho 2025
 - ![logo512](../assets/converge-que-cola.png)
 - Tags: Empresas
 - Badges:
