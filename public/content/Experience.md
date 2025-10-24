@@ -92,7 +92,7 @@
 
 ## Nexta Delivery (Backend)
 - *Desenvolvedor Backend* | Setembro 2025 - Atual
-- ![logo512](../assets/converge-que-cola.png)
+- ![logo512](../assets/nexta_delivery_logo.jpg)
 - Tags: Empresas
 - Badges:
   - Badge [blue]
