@@ -89,3 +89,13 @@
 - List Items:
   - Backend: Nestjs, TypeORM, Heroku;
   - Database: PostgreSQL
+
+## Nexta Delivery (Backend)
+- *Desenvolvedor Backend* | Setembro 2025 - Atual
+- ![logo512](../assets/converge-que-cola.png)
+- Tags: Empresas
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Backend: AWS, Lambda, Javascrip, S3 Bucket, SQS, API Gateway, CloudWatch with cron-jobs;
+  - Database: DynamoDB
