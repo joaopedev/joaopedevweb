@@ -68,7 +68,7 @@
   - Database: PostgreSQL;    
   - Docker;  
   
-## TimeNow (Fullstack)
+## TimeNow 
 - *Desenvolvedor Fullstack* | Abril 2024 - Fevereiro 2025
 - ![logo512](../assets/timenow_logo.png)
 - Tags: Empresas
@@ -80,7 +80,7 @@
   - Database: PostgreSQL, SQL; 
   - Docker;
 
-## Converge que cola (Backend)
+## Converge que cola
 - *Desenvolvedor Backend* | Abril 2025 - Julho 2025
 - ![logo512](../assets/converge-que-cola.png)
 - Tags: Empresas
@@ -90,8 +90,8 @@
   - Backend: Nestjs, TypeORM, Heroku;
   - Database: PostgreSQL
 
-## Nexta Delivery (Backend)
-- *Desenvolvedor Backend* | Setembro 2025 - Atual
+## Nexta Delivery
+- *Desenvolvedor Backend* | Setembro 2025 - Novembro 2025
 - ![logo512](../assets/nexta_delivery_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -99,3 +99,14 @@
 - List Items:
   - Backend: AWS, Lambda, Javascrip, S3 Bucket, SQS, API Gateway, CloudWatch with cron-jobs;
   - Database: DynamoDB
+
+## Leaf Consultoria
+- *Desenvolvedor Fullstack* | Novembro 2025 - Atual
+- ![logo512](../assets/leaf.png)
+- Tags: Empresas
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Front-end: C#, .NET 8.0 +;
+  - Backend- C#, Entity Framework;  
+  - Database: Postgres;  
