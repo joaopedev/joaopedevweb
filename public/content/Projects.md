@@ -9,7 +9,7 @@ Integração de secretarias, melhoras no IEG-M, criação de relacionamento entr
 
 ## Agendamento Social Campos dos Goytacazes
 O principal intuito do aplicativo é a sua função social. O aplicativo realiza agendamentos diretamente com a assistência social da prefeitura de Campos dos Goytacazes, com o principal intuito de agilizar o atendimento ao público e oferecer um sistema próprio de controle de atendimento para os funcionários dos CRAS's.
-- ![600x200](https://social.campos.rj.gov.br/wp-content/uploads/2022/02/logo-1-1024x277.png)
+- ![600x200](https://socialcampos.com.br/images/logo-secretaria.png)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
@@ -42,15 +42,6 @@ Aplicativo para uso feminino, aplicativo permite calculo de ciclos femininos, co
   - Badge [blue]
 - Buttons:
   - Link [https://play.google.com/store/apps/details?id=com.paulinha19.empfo1]
-
-## Advocacia Social
-Pagina voltada para entrar em contato com advogados de Vitoria-ES referente a direito social.
-- ![600x200](https://advocaciasociales.com.br/static/media/lawer.f8c106d61e3c9b19c0ce.png)
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://advocaciasociales.com.br/]  
 
 ## Dota Friends
 Uma pagina criada para intereção de jogadores da steam, com intuito de ter mais amigos e pessoas para jogar Dota 2. O intuito maior do site é vincular um frontend e backend de uma forma simplista utilizando ReactTS com Chakra UI e backend em NodeTS;
