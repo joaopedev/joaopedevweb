@@ -1,1 +1,1 @@
-Empresas
+Companies

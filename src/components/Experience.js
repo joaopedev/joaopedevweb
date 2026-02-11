@@ -42,7 +42,7 @@ export default function Experience({ color }) {
         >
           <Stack align="center" direction="row" px={4}>
             <HStack>
-              <Text fontWeight={800}>Experiência</Text>
+              <Text fontWeight={800}>Experience</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>

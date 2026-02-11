@@ -1,5 +1,5 @@
 ## Guberman
-- *Estagiário Fullstack* | Março 2022 - Maio 2022
+- *Trainee Fullstack* | Março 2022 - Maio 2022
 - ![logo512](../assets/guberman_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -10,7 +10,7 @@
   - Database: MYSQL;
 
 ## EcoSoft
-- *Estagiário Fullstack* | Julho 2022 - Dezembro 2022
+- *Trainee Fullstack* | Julho 2022 - Dezembro 2022
 - ![logo512](../assets/ecosoft_solucoes_ambientais_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -21,7 +21,7 @@
   - Database: PostgreSQL;
 
 ## Smart Innovation
-- *Desenvolvedor FullStack* | Março 2023 - Julho 2023
+- *Developer FullStack* | Março 2023 - Julho 2023
 - ![logo512](../assets/smartinnovationbr_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -33,7 +33,7 @@
   - Docker;
 
 ## JS Soluction
-- *Desenvolvedor Backend* | Dezembro 2023 - Fevereiro 2024
+- *Developer Backend* | Dezembro 2023 - Fevereiro 2024
 - ![logo512](../assets/js_soluctions_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -45,7 +45,7 @@
   - Docker;
 
 ## EMPFO App
-- *Desenvolvedor Backend* | Agosto 2023 - Dezembro 2024
+- *Developer Backend* | Agosto 2023 - Dezembro 2024
 - ![logo512](../assets/empfo.jpg)
 - Tags: Empresas
 - Badges:
@@ -57,7 +57,7 @@
   - Docker;
 
 ## Prefeitura Municipal Campos Dos Goytacazes
-- *Desenvolvedor Fullsack* | Julho 2024- Janeiro 2025
+- *Developer Fullsack* | Julho 2024- Janeiro 2025
 - ![logo512](../assets/android-chrome-512x512.png)
 - Tags: Empresas
 - Badges:
@@ -69,7 +69,7 @@
   - Docker;  
   
 ## TimeNow 
-- *Desenvolvedor Fullstack* | Abril 2024 - Fevereiro 2025
+- *Developer Fullstack* | Abril 2024 - Fevereiro 2025
 - ![logo512](../assets/timenow_logo.png)
 - Tags: Empresas
 - Badges:
@@ -81,7 +81,7 @@
   - Docker;
 
 ## Converge que cola
-- *Desenvolvedor Backend* | Abril 2025 - Julho 2025
+- *Developer Backend* | Abril 2025 - Julho 2025
 - ![logo512](../assets/converge-que-cola.png)
 - Tags: Empresas
 - Badges:
@@ -91,7 +91,7 @@
   - Database: PostgreSQL
 
 ## Nexta Delivery
-- *Desenvolvedor Backend* | Setembro 2025 - Novembro 2025
+- *Developer Backend* | Setembro 2025 - Novembro 2025
 - ![logo512](../assets/nexta_delivery_logo.jpg)
 - Tags: Empresas
 - Badges:
@@ -101,7 +101,7 @@
   - Database: DynamoDB
 
 ## Leaf Consultoria
-- *Desenvolvedor Fullstack* | Novembro 2025 - Atual
+- *Developer Fullstack* | Novembro 2025 - Atual
 - ![logo512](../assets/leaf.png)
 - Tags: Empresas
 - Badges:

@@ -60,7 +60,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Vamos nos conhecer!
+              Let's get to know each other!
             </Button>
             <Button
               variant={"link"}
@@ -68,7 +68,7 @@ export default function Header({ color }) {
               size={"sm"}
               onClick={scrollToContact}
             >
-              Entre em contato
+              Call me!
             </Button>
           </Stack>
         </Stack>

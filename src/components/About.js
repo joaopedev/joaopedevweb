@@ -21,7 +21,7 @@ export default function About({ color }) {
           >
             <Stack align="center" direction="row" px={4}>
               <HStack>
-                <Text fontWeight={800}>Sobre</Text>
+                <Text fontWeight={800}>About</Text>
               </HStack>
               <Divider orientation="horizontal" />
             </Stack>
