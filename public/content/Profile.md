@@ -2,15 +2,15 @@
 - Portable Portfolio
 
 ## Header
-- Olá, meu nome é Joao Pedro. 
-- Desenvolvedor Web FullStack.
-- Sou desenvolvedor de software Web, há 3 anos venho desenvolvendo aplicações web utilizando Typescript, JavaScript, Python, C# como principais linguagéns de programação.
+- Hi, My name is Joao Pedro. 
+- FullStack web developer.
+- I am a web software developer, and for the past 3 years I have been developing web applications using Typescript, JavaScript, Python, and C# as my main programming languages..
 
 ## About
-Sou um profissional de tecnologia com experiência como estagiário e também desenvolvedor fullstack. Durante meu estágio de seis meses, de julho a dezembro de 2022, adquiri habilidades essenciais em desenvolvimento de software, utilizando linguagens como Node.js, Angular, e um banco de dados PostgreSQL. Durante esse período, destaco a criação de uma API health check. Posteriormente, de março a julho de 2023, atuei como desenvolvedor fullstack na Smart Innovation, trabalhando com uma variedade de tecnologias, incluindo C#, AngularJS, React, Nest.js, Next.js, Docker e PostgreSQL. Fui responsável por realizar manutenção e implementar novas funcionalidades em projetos complexos. Entre dezembro de 2023 e fevereiro de 2024, trabalhei como desenvolvedor backend na JS Soluction, utilizando NodeJS (Typescript), Python e PostgreSQL e Docker. Aplicativos feitos em React Native (Expo GO), NodeJS (Typescript) e PostgreSQL, juntamente com Docker. Atuei como desenvolvedor fullstack na TimeNow, de abril de 2024 a abril 2025, onde trabalho com ReactJS, AngularJS, NodeJS (Typescript), Python, C#, e bancos de dados PostgreSQL e SQL. Minha capacidade de trabalhar em todas as camadas de uma aplicação, desde o back-end até o front-end, me permite contribuir efetivamente para o sucesso de projetos complexos.
+I am a technology professional with experience as an intern and also as a full-stack developer. During my six-month internship, from July to December 2022, I acquired essential software development skills using languages ​​such as Node.js, Angular, and a PostgreSQL database. During this period, I highlight the creation of a health check API. Subsequently, from March to July 2023, I worked as a full-stack developer at Smart Innovation, working with a variety of technologies, including C#, AngularJS, React, Nest.js, Next.js, Docker, and PostgreSQL. I was responsible for maintaining and implementing new features in complex projects. Between December 2023 and February 2024, I worked as a backend developer at JS Soluction, using NodeJS (Typescript), Python, PostgreSQL, and Docker. Applications were built in React Native (Expo GO), NodeJS (Typescript), and PostgreSQL, along with Docker. I worked as a full-stack developer at TimeNow from April 2024 to April 2025, where I worked with ReactJS, AngularJS, NodeJS (Typescript), Python, C#, and PostgreSQL and SQL databases. My ability to work across all layers of an application, from back-end to front-end, allows me to effectively contribute to the success of complex projects.
 
 ## Contact
-Formas de contato!
+Contatc:
 - LinkedIn: https://www.linkedin.com/in/joao-pedro-sousa-5b9723213/
 - GitHub: https://github.com/joaopedev
 - Email: joaopedev@outlook.com

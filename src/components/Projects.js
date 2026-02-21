@@ -35,7 +35,7 @@ export default function Projects({ color }) {
         >
           <Stack align="center" direction="row" p={4}>
             <HStack>
-              <Text fontWeight={800}>Projetos</Text>
+              <Text fontWeight={800}>Projects</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
@@ -73,7 +73,7 @@ export default function Projects({ color }) {
             ))}
           </Stack>
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            Testes
+            Tests
           </Text>
           <SimpleGrid columns={[1, 2, 3]} px={4} spacing={4}>
             {others

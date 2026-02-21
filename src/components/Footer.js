@@ -6,11 +6,6 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 
-const getCurrentYear = () => {
-  return new Date().getFullYear();
-};
-
-
 export default function Footer() {
   return (
     <Box
@@ -23,7 +18,7 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© {getCurrentYear()} Joao Pedro Sousa. All rights reserved.</Text>
+        <Text>© 2023 Joao Pedro Sousa. All rights reserved.</Text>
       </Container>
     </Box>
   );

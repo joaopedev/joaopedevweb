@@ -1,5 +1,5 @@
 ## API Bank
-Teste Backend.
+Test Backend.
 - Tags: Testes
 - Badges:
   - Badge [blue]
@@ -7,7 +7,7 @@ Teste Backend.
   - Link [https://github.com/joaopedev/api-bank]
 
 ## Vix-Cars
-Teste Frontend.
+Test Frontend.
 - Tags: Testes
 - Badges:
   - Badge [blue]
@@ -15,7 +15,7 @@ Teste Frontend.
   - Link [https://github.com/joaopedev/vix-car]  
 
 ## Cadeado Smart Innovation
-Teste FullStack.
+Test FullStack.
 - Tags: Testes
 - Badges:
   - Badge [blue]
@@ -23,7 +23,7 @@ Teste FullStack.
   - Link [https://github.com/joaopedev/CadeadoSmartInnovation]
 
 ## CRUD API Rest
-Teste FullStack.
+Test FullStack.
 - Tags: Testes
 - Badges:
   - Badge [blue]
@@ -31,7 +31,7 @@ Teste FullStack.
   - Link [https://github.com/joaopedev/SmartTeste]  
 
 ## ACME
-Projeto de agendamento de consultas para clinicas, médicos e pacientes.
+Project for scheduling appointments for clinics, doctors, and patients.
 - Tags: Projetos
 - Badges:
   - Badge [blue]
