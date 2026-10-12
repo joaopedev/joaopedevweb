@@ -101,12 +101,24 @@
   - Database: DynamoDB
 
 ## Leaf Consultoria
-- *Developer Fullstack* | Novembro 2025 - Atual
+- *Developer Fullstack* | Novembro 2025 - Abril 2026
 - ![logo512](../assets/leaf.png)
 - Tags: Companies
 - Badges:
   - Badge [blue]
 - List Items:
   - Front-end: C#, .NET 8.0 +;
-  - Backend- C#, Entity Framework;  
+  - Backend: C#, Entity Framework;  
   - Database: Postgres;  
+
+## Nina Saude
+- *Developer Fullstack* | Abril 2026 - Atual
+- ![logo512](../assets/ninasaude_logo.jpg)
+- Tags: Companies
+- Badges:
+  - Badge [blue]
+- List Items:
+  - Front-end: NestJS, AngularJS ;
+  - Backend: AdonisJS, NestjS, AWS; 
+  - Mobile: React Native, Expo
+  - Database: Postgres, MySQL;  
