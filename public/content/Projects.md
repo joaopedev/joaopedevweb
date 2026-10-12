@@ -36,7 +36,7 @@ Online appointment scheduling for clinics, doctors, and patients..
 
 ## EMPFO
 An app designed for women, this app allows for the calculation of menstrual cycles, provides contact information for high-risk groups, and locates hospital areas and women's police stations.
-- ![600x200](https://play-lh.googleusercontent.com/XHE1E_ptwfeHzmttxjpyDREv4JX73bUEBWRkTK2C5DY0L5xSTgLfWBJS8q_YHeV92Js=w240-h480-rw)
+- ![600x200](https://joaopedevweb.vercel.app/assets/empfo.jpg)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
@@ -54,9 +54,18 @@ This page was created for interaction among Steam players, with the goal of maki
 
 ## Converge que Cola
 Engage event participants with an interactive and gamified experience, offering the possibility to collect digital stickers, complete missions, win prizes, and track their progress on a leaderboard.;
-- ![600x200](https://play-lh.googleusercontent.com/ElF_6b0i5DFzTxbTaNUoNnxfBBppfHz6luWQDujHyo0Ls_nXjTSLXNgRmfv4TaFqAyg=w480-h960-rw)
+- ![600x200](https://joaopedevweb.vercel.app/assets/converge-que-cola.png)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://play.google.com/store/apps/details?id=com.paulinha19.convergequecola&pli=1] 
+
+## CyberSoftware
+SaaS CRM with customer support via WhatsApp, Instagram, and Facebook;
+- ![600x200](https://cbersoftware.com.br/_next/static/media/logo.db1c9331.png)
+- Tags: Category 2
+- Badges:
+  - Badge [blue]
+- Buttons:
+  - Link [https://cbersoftware.com.br/] 
